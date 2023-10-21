@@ -23,4 +23,4 @@ Puede ejecutar el programa siguiendo estos pasos:
 
 **Autor:** Yoshio Geovanni García López
 
-**Fecha:** 12 de marzo del 2022
+**Fecha:** 4 de diciembre del 2022
